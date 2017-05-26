@@ -1,10 +1,10 @@
-# CPSC 481 - Tutorial [X] - Group [Y]
+# CPSC 481 - Tutorial 3 - Group 2
 
-## Project Title
+## Kaynyne 
 
-* Title
-* Team Members (names, IDs)
-* Tutorial Number and TA
+* Kaynyne
+* Brandon Sieu (10150682), Alex Todorovic (10129674), Valerie Kim (10163008)
+* Tutorial 3, Sydney Pratte
 
 ## Project Idea
 
